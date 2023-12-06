@@ -9,9 +9,9 @@
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-                <a class="nav-link text-light" href="#home">Home</a>
-                <a class="nav-link text-light" href="#about">About</a>
-                <a class="nav-link text-light" href="#contact">Contect</a>
+                <a class="nav-link text-light mx-4 fw-bold" href="{{url('/')}}">Home</a>
+                <a class="nav-link text-light mx-4 fw-bold" href="{{url('/about')}}">About</a>
+                <a class="nav-link text-light mx-4 fw-bold" href="{{url('/contact')}}">Contect</a>
             </div>
         </div>
     </div>

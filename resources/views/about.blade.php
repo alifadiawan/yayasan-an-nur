@@ -12,7 +12,7 @@
     </div>
 
     <div class="container text-center mt-5">
-        {{-- latar belakang --}}
+        {{-- latar belakang --}}    
         <div class="latar-belakang">
             <div class="row">
                 <div class="col">
